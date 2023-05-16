@@ -1,0 +1,23 @@
+.conteiner_items_block {
+display: flex;
+justify-content: center;
+height: 250px;
+width: 250px;
+background-color: black;
+}
+
+.items_block {
+display: flexbox;
+justify-content: center;
+height: 50px;
+width: 50px;
+background-color: aqua;
+margin-top: 35%;
+}
+
+p {
+font-size: 10px;
+font-style: italic;
+text-align: center;
+line-height: 15px;
+}
